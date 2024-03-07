@@ -1,0 +1,42 @@
+[submodule "login-flutter"]
+	path = login-flutter
+	url = git@github.com:kitagawaowo/login-flutter.git
+[submodule "flutter-login"]
+	path = flutter-login
+	url = git@github.com:kitagawaowo/flutter-login.git
+[submodule "TheAudioDBFlutter"]
+	path = TheAudioDBFlutter
+	url = git@github.com:kitagawaowo/TheAudioDBFlutter.git
+[submodule "AppSuperZound"]
+	path = AppSuperZound
+	url = git@github.com:kitagawaowo/AppSuperZound.git
+[submodule "Login"]
+	path = Login
+	url = git@github.com:kitagawaowo/Login.git
+[submodule "ToDo-Flutter"]
+	path = ToDo-Flutter
+	url = git@github.com:kitagawaowo/ToDo-Flutter.git
+[submodule "flutter-first"]
+	path = flutter-first
+	url = git@github.com:kitagawaowo/flutter-first.git
+[submodule "AppSuperZoundVDMR"]
+	path = AppSuperZoundVDMR
+	url = git@github.com:kitagawaowo/AppSuperZoundVDMR.git
+[submodule "productsCompose"]
+	path = productsCompose
+	url = git@github.com:kitagawaowo/productsCompose.git
+[submodule "SuperHeroComposeDMR"]
+	path = SuperHeroComposeDMR
+	url = git@github.com:kitagawaowo/SuperHeroComposeDMR.git
+[submodule "SuperHeroComposev2"]
+	path = SuperHeroComposev2
+	url = git@github.com:kitagawaowo/SuperHeroComposev2.git
+[submodule "SuperHeroCompose"]
+	path = SuperHeroCompose
+	url = git@github.com:kitagawaowo/SuperHeroCompose.git
+[submodule "Pokedex"]
+	path = Pokedex
+	url = git@github.com:kitagawaowo/Pokedex.git
+[submodule "MobileApplications"]
+	path = MobileApplications
+	url = git@github.com:kitagawaowo/MobileApplications.git
